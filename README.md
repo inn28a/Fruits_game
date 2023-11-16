@@ -12,3 +12,7 @@ The game will start when you click the "Start Game" button. You can reset the ga
 4. Missing a fruit results in the loss of one life.
 5. The game ends when all lives are exhausted.
 6. After each successful slice, a new fruit will appear on the screen.
+
+### Acknowledgments
+This game is a simplified version inspired by the popular Fruit Ninja game. It serves as a fun and interactive project for learning basic game development concepts.
+
