@@ -1,11 +1,11 @@
 # Fruit Ninja Game
 
-###This is a simple Fruit Ninja game implemented using HTML, CSS, and JavaScript/jQuery. The game allows players to slice fruits appearing on the screen to score points. The goal is to achieve the highest score possible before running out of lives.
+### This is a simple Fruit Ninja game implemented using HTML, CSS, and JavaScript/jQuery. The game allows players to slice fruits appearing on the screen to score points. The goal is to achieve the highest score possible before running out of lives.
 
-##Getting Started
+## Getting Started
 ### The game will start when you click the "Start Game" button. You can reset the game by clicking the same button during gameplay.
 
-##Gameplay
+## Gameplay
 ### 1. Slice the fruits by moving the mouse pointer over them.
 ### 2. Each successful slice adds points to your score.
 ### 3. The game provides three lives, as represented by heart icons.
