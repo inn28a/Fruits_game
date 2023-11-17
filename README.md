@@ -17,6 +17,12 @@ The game will start when you click the "Start Game" button. You can reset the ga
 
 ![FruitsGame](https://github.com/inn28a/Fruits_game/assets/49073623/7f31cb95-2f24-4b8a-84eb-222c1a38bc24)
 
+## Technologies
+Project is created with:
+
+* HTML
+* CSS
+* JavaScript/jQuery
 
 #### Acknowledgments
 
