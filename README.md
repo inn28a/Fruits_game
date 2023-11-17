@@ -13,6 +13,11 @@ The game will start when you click the "Start Game" button. You can reset the ga
 5. The game ends when all lives are exhausted.
 6. After each successful slice, a new fruit will appear on the screen.
 
+## Overview
+
+![FruitsGame](https://github.com/inn28a/Fruits_game/assets/49073623/7f31cb95-2f24-4b8a-84eb-222c1a38bc24)
+
+
 ### Acknowledgments
 
 * [Project based on this tutorial](https://www.udemy.com/course/complete-web-development-course/)
