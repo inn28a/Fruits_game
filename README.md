@@ -14,5 +14,5 @@ The game will start when you click the "Start Game" button. You can reset the ga
 6. After each successful slice, a new fruit will appear on the screen.
 
 ### Acknowledgments
-This game is a simplified version inspired by the popular Fruit Ninja game. It serves as a fun and interactive project for learning basic game development concepts.
+Project based on Udemy course: https://www.udemy.com/course/complete-web-development-course/
 
