@@ -14,6 +14,5 @@ The game will start when you click the "Start Game" button. You can reset the ga
 6. After each successful slice, a new fruit will appear on the screen.
 
 ### Acknowledgments
-Project based on Udemy course: https://www.udemy.com/course/complete-web-development-course/
 
 * [Project based on this tutorial](https://www.udemy.com/course/complete-web-development-course/)
